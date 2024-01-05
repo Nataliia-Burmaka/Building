@@ -1,4 +1,4 @@
- .u-section-1 {
+.u-section-1 {
   background-image: url("images/house-7124141_1920.jpg");
   background-position: 50% 50%;
 }
@@ -96,7 +96,7 @@
 }
 
 @media (max-width: 575px) {
-   .u-section-1 {
+  .u-section-1 {
     background-position: 71.72% 50%;
   }
 
@@ -125,7 +125,8 @@
     margin-left: 0;
     margin-right: 0;
   }
-} .u-section-2 {
+}
+.u-section-2 {
   background-image: none;
 }
 
@@ -232,7 +233,8 @@
   .u-section-2 .u-image-1 {
     min-height: 338px;
   }
-} .u-section-3 {
+}
+.u-section-3 {
   background-image: none;
 }
 
@@ -264,7 +266,7 @@
 }
 
 .u-section-3 .u-image-1 {
-  background-image: url("images/paint-brush-1034901_1920.jpg");
+  background-image: url("images/01q1.jpg");
   background-position: 50% 50%;
   min-height: 529px;
 }
@@ -339,7 +341,8 @@
   .u-section-3 .u-image-1 {
     min-height: 338px;
   }
-} .u-section-4 {
+}
+.u-section-4 {
   background-image: none;
 }
 
@@ -353,7 +356,7 @@
 }
 
 .u-section-4 .u-image-1 {
-  background-image: url("images/dirt-6752127_1920.jpg");
+  background-image: url("images/pool-3001209_1280.jpg");
   min-height: 529px;
   background-position: 50% 50%;
 }
@@ -444,6 +447,546 @@
   }
 
   .u-section-4 .u-image-1 {
+    min-height: 338px;
+  }
+}
+.u-section-5 {
+  background-image: none;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 649px;
+}
+
+.u-section-5 .u-layout-wrap-1 {
+  margin-top: 59px;
+  margin-bottom: 59px;
+}
+
+.u-section-5 .u-layout-cell-1 {
+  min-height: 529px;
+}
+
+.u-section-5 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-5 .u-text-1 {
+  margin: 0 11px 0 0;
+}
+
+.u-section-5 .u-btn-1 {
+  --radius: 33px;
+  margin: 157px auto 0;
+  padding: 20px 62px 20px 61px;
+}
+
+.u-section-5 .u-image-1 {
+  background-image: url("images/ventiliruemye-fasady-shema-eskiz.jpg");
+  background-position: 50% 50%;
+  min-height: 529px;
+}
+
+.u-section-5 .u-container-layout-2 {
+  padding: 30px 29px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 556px;
+  }
+
+  .u-section-5 .u-layout-cell-1 {
+    --animation-custom_in-translate_x: -300px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
+    min-height: 436px;
+  }
+
+  .u-section-5 .u-image-1 {
+    --animation-custom_in-translate_x: 300px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
+    min-height: 436px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 454px;
+  }
+
+  .u-section-5 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 370px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 721px;
+  }
+
+  .u-section-5 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 537px;
+  }
+
+  .u-section-5 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 535px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 338px;
+  }
+}
+.u-section-6 {
+  background-image: none;
+}
+
+.u-section-6 .u-sheet-1 {
+  min-height: 649px;
+}
+
+.u-section-6 .u-layout-wrap-1 {
+  margin-top: 59px;
+  margin-bottom: 59px;
+}
+
+.u-section-6 .u-image-1 {
+  background-image: url("images/hammer-drill-1742656_1920.jpg");
+  min-height: 529px;
+  background-position: 50% 50%;
+}
+
+.u-section-6 .u-container-layout-1 {
+  padding: 30px 29px;
+}
+
+.u-section-6 .u-layout-cell-2 {
+  min-height: 529px;
+}
+
+.u-section-6 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-6 .u-text-1 {
+  margin: 0 auto 0 0;
+}
+
+.u-section-6 .u-btn-1 {
+  --radius: 33px;
+  margin: 172px auto 0;
+  padding: 20px 62px 20px 61px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 556px;
+  }
+
+  .u-section-6 .u-image-1 {
+    --animation-custom_in-translate_x: -300px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
+    min-height: 436px;
+  }
+
+  .u-section-6 .u-layout-cell-2 {
+    --animation-custom_in-translate_x: 300px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
+    min-height: 436px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 454px;
+  }
+
+  .u-section-6 .u-image-1 {
+    min-height: 370px;
+  }
+
+  .u-section-6 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 721px;
+  }
+
+  .u-section-6 .u-image-1 {
+    min-height: 537px;
+  }
+
+  .u-section-6 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-6 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 535px;
+  }
+
+  .u-section-6 .u-image-1 {
+    min-height: 338px;
+  }
+}
+.u-section-7 {
+  background-image: none;
+}
+
+.u-section-7 .u-sheet-1 {
+  min-height: 649px;
+}
+
+.u-section-7 .u-layout-wrap-1 {
+  margin-top: 59px;
+  margin-bottom: 59px;
+}
+
+.u-section-7 .u-layout-cell-1 {
+  min-height: 529px;
+}
+
+.u-section-7 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-7 .u-text-1 {
+  margin: 0 11px 0 0;
+}
+
+.u-section-7 .u-btn-1 {
+  --radius: 33px;
+  margin: 157px auto 0;
+  padding: 20px 62px 20px 61px;
+}
+
+.u-section-7 .u-image-1 {
+  background-image: url("images/montazh-gipsokartona.jpg");
+  background-position: 50% 50%;
+  min-height: 529px;
+}
+
+.u-section-7 .u-container-layout-2 {
+  padding: 30px 29px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 556px;
+  }
+
+  .u-section-7 .u-layout-cell-1 {
+    --animation-custom_in-translate_x: -300px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
+    min-height: 436px;
+  }
+
+  .u-section-7 .u-image-1 {
+    --animation-custom_in-translate_x: 300px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
+    min-height: 436px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 454px;
+  }
+
+  .u-section-7 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-7 .u-image-1 {
+    min-height: 370px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 721px;
+  }
+
+  .u-section-7 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-7 .u-image-1 {
+    min-height: 537px;
+  }
+
+  .u-section-7 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 535px;
+  }
+
+  .u-section-7 .u-image-1 {
+    min-height: 338px;
+  }
+}
+.u-section-8 {
+  background-image: none;
+}
+
+.u-section-8 .u-sheet-1 {
+  min-height: 649px;
+}
+
+.u-section-8 .u-layout-wrap-1 {
+  margin-top: 59px;
+  margin-bottom: 59px;
+}
+
+.u-section-8 .u-image-1 {
+  background-image: url("images/basement-remodeling-7900113_640.jpg");
+  min-height: 529px;
+  background-position: 50% 50%;
+}
+
+.u-section-8 .u-container-layout-1 {
+  padding: 30px 29px;
+}
+
+.u-section-8 .u-layout-cell-2 {
+  min-height: 529px;
+}
+
+.u-section-8 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-8 .u-text-1 {
+  margin: 0 auto 0 0;
+}
+
+.u-section-8 .u-btn-1 {
+  --radius: 33px;
+  margin: 173px auto 0;
+  padding: 20px 62px 20px 61px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 556px;
+  }
+
+  .u-section-8 .u-image-1 {
+    --animation-custom_in-translate_x: -300px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
+    min-height: 436px;
+  }
+
+  .u-section-8 .u-layout-cell-2 {
+    --animation-custom_in-translate_x: 300px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
+    min-height: 436px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 454px;
+  }
+
+  .u-section-8 .u-image-1 {
+    min-height: 370px;
+  }
+
+  .u-section-8 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 721px;
+  }
+
+  .u-section-8 .u-image-1 {
+    min-height: 537px;
+  }
+
+  .u-section-8 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-8 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 535px;
+  }
+
+  .u-section-8 .u-image-1 {
+    min-height: 338px;
+  }
+}
+.u-section-9 {
+  background-image: none;
+}
+
+.u-section-9 .u-sheet-1 {
+  min-height: 649px;
+}
+
+.u-section-9 .u-layout-wrap-1 {
+  margin-top: 59px;
+  margin-bottom: 59px;
+}
+
+.u-section-9 .u-layout-cell-1 {
+  min-height: 529px;
+}
+
+.u-section-9 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-9 .u-text-1 {
+  margin: 0 11px 0 0;
+}
+
+.u-section-9 .u-btn-1 {
+  --radius: 33px;
+  margin: 157px auto 0;
+  padding: 20px 62px 20px 61px;
+}
+
+.u-section-9 .u-image-1 {
+  background-image: url("images/dirt-6752127_1920.jpg");
+  background-position: 50% 50%;
+  min-height: 529px;
+}
+
+.u-section-9 .u-container-layout-2 {
+  padding: 30px 29px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-9 .u-sheet-1 {
+    min-height: 556px;
+  }
+
+  .u-section-9 .u-layout-cell-1 {
+    --animation-custom_in-translate_x: -300px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
+    min-height: 436px;
+  }
+
+  .u-section-9 .u-image-1 {
+    --animation-custom_in-translate_x: 300px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
+    min-height: 436px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-9 .u-sheet-1 {
+    min-height: 454px;
+  }
+
+  .u-section-9 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-9 .u-image-1 {
+    min-height: 370px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-9 .u-sheet-1 {
+    min-height: 721px;
+  }
+
+  .u-section-9 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-9 .u-image-1 {
+    min-height: 537px;
+  }
+
+  .u-section-9 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-9 .u-sheet-1 {
+    min-height: 535px;
+  }
+
+  .u-section-9 .u-image-1 {
     min-height: 338px;
   }
 }
